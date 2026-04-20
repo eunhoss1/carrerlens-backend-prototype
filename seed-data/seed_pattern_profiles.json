@@ -1,0 +1,12 @@
+[
+  {"job_family":"Backend","pattern_name":"Backend Core A","core_skills":"Java,Spring Boot,SQL,Docker"},
+  {"job_family":"Backend","pattern_name":"Backend Core B","core_skills":"Java,Spring Boot,Kubernetes"},
+  {"job_family":"Backend","pattern_name":"Backend Core C","core_skills":"Java,CI/CD,Monitoring"},
+  {"job_family":"Backend","pattern_name":"Backend Core D","core_skills":"Spring Boot,Redis,SQL"},
+  {"job_family":"Backend","pattern_name":"Backend Core E","core_skills":"Java,Architecture,Test"},
+  {"job_family":"Data","pattern_name":"Data Core A","core_skills":"Python,SQL,Airflow"},
+  {"job_family":"Data","pattern_name":"Data Core B","core_skills":"dbt,SQL,BI"},
+  {"job_family":"Data","pattern_name":"Data Core C","core_skills":"Python,AWS,Spark"},
+  {"job_family":"Data","pattern_name":"Data Core D","core_skills":"Modeling,SQL,Visualization"},
+  {"job_family":"Data","pattern_name":"Data Core E","core_skills":"Python,ETL,Data Quality"}
+]

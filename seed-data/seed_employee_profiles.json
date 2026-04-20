@@ -1,0 +1,6 @@
+[
+  {"job_family":"Backend","country":"USA","skills":"Java,Spring Boot,SQL,Docker","experience_summary":"3년 백엔드 API 개발"},
+  {"job_family":"Backend","country":"Japan","skills":"Java,Spring Boot,Kubernetes","experience_summary":"마이크로서비스 운영 경험"},
+  {"job_family":"Data","country":"Singapore","skills":"Python,SQL,Airflow","experience_summary":"데이터 파이프라인 구축"},
+  {"job_family":"Data","country":"USA","skills":"dbt,SQL,Python,BI","experience_summary":"분석 데이터 모델링"}
+]
