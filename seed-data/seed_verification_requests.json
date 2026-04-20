@@ -1,0 +1,5 @@
+[
+  {"user_id":"1","evidence_url":"https://example.com/evidence/1","status":"PENDING","admin_comment":""},
+  {"user_id":"2","evidence_url":"https://example.com/evidence/2","status":"APPROVED","admin_comment":"검증 완료"},
+  {"user_id":"1","evidence_url":"https://example.com/evidence/3","status":"REJECTED","admin_comment":"증빙 보완 필요"}
+]

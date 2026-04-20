@@ -1,0 +1,6 @@
+[
+  {"title":"Backend Engineer","company":"GlobalTech","country":"USA","job_family":"Backend","required_skills":"Java,Spring Boot,SQL,Docker"},
+  {"title":"Data Engineer","company":"DataBridge","country":"Singapore","job_family":"Data","required_skills":"Python,SQL,Airflow,AWS"},
+  {"title":"Platform Engineer","company":"Nexus","country":"Japan","job_family":"Backend","required_skills":"Java,Kubernetes,Spring Boot,CI/CD"},
+  {"title":"Analytics Engineer","company":"InsightX","country":"USA","job_family":"Data","required_skills":"dbt,SQL,Python,BI"}
+]

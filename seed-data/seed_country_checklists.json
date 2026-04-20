@@ -1,0 +1,14 @@
+[
+  {"country":"USA","timeline_stage":"D-180","task_title":"비자 조건 확인","reference_link":"https://travel.state.gov"},
+  {"country":"USA","timeline_stage":"D-90","task_title":"주거 옵션 조사","reference_link":"https://www.zillow.com"},
+  {"country":"USA","timeline_stage":"D-30","task_title":"출국 서류 점검","reference_link":"https://www.uscis.gov"},
+  {"country":"USA","timeline_stage":"D+7","task_title":"은행 계좌 개설","reference_link":"https://www.chase.com"},
+  {"country":"Japan","timeline_stage":"D-180","task_title":"재류자격 준비","reference_link":"https://www.mofa.go.jp"},
+  {"country":"Japan","timeline_stage":"D-90","task_title":"거주지 계약 확인","reference_link":"https://www.realestate-tokyo.com"},
+  {"country":"Japan","timeline_stage":"D-30","task_title":"휴대폰/인터넷 개통 계획","reference_link":"https://www.docomo.ne.jp"},
+  {"country":"Japan","timeline_stage":"D+7","task_title":"주민등록 및 은행 계좌","reference_link":"https://www.japanpost.jp"},
+  {"country":"Singapore","timeline_stage":"D-180","task_title":"Employment Pass 준비","reference_link":"https://www.mom.gov.sg"},
+  {"country":"Singapore","timeline_stage":"D-90","task_title":"임시 거주지 예약","reference_link":"https://www.propertyguru.com.sg"},
+  {"country":"Singapore","timeline_stage":"D-30","task_title":"입국 신고 및 보험","reference_link":"https://www.ica.gov.sg"},
+  {"country":"Singapore","timeline_stage":"D+7","task_title":"통신/은행 개설","reference_link":"https://www.dbs.com.sg"}
+]
